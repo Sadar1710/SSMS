@@ -1,0 +1,57 @@
+﻿@model List<SSMS.Areas.StockManager.ViewModels.StockVM>
+@{
+    ViewData["Title"] = "AvailableStock";
+}
+
+<div class="row mt-3">
+    <div class="col-12 col-sm-12 col-md-10 offset-md-0 col-lg-11 col-xl-11 grid-margin stretch-card">
+        <div class="card" style="border-radius: 8px;box-shadow: 0 1px 1px 0 rgba(0,0,0,0.2),0 1px 1px 0 rgba(0,0,0,0.4);background-color: #e3e3e3;">
+            <div class="card-body">
+                <h4 class="card-title text-center">Available Stock</h4>
+                <div class="table-responsive">
+                    <table class="table table-striped">
+                        <thead>
+                            <tr>
+                                <th>
+                                    Serial
+                                </th>
+                                <th>
+                                    Product Name
+                                </th>
+                               
+                                <th>
+                                    Last Stock In
+                                </th>
+                                
+                                <th>
+                                   Available Stock
+                                </th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var item in Model)
+                            {
+                                <tr>
+                                    <td>
+                                        @item.Serial
+                                    </td>
+                                    <td>
+                                        @item.ProductName
+                                    </td>                                    
+                                    <td>
+                                        @item.StockInDate
+                                    </td>
+                                    <td>
+                                        @item.AvailableStock
+                                    </td>                                    
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+

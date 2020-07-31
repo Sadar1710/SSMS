@@ -1,0 +1,52 @@
+﻿
+@{
+    ViewData["Title"] = "QuantityTypeDetails";
+}
+
+@model List<SSMS.Areas.Admin.ViewModels.QuantityTypeVM>
+
+<div class="row mt-3">
+    <div class="col-12 col-sm-12 col-md-10 offset-md-1 col-lg-8 offset-lg-2 col-xl-8 grid-margin stretch-card">
+        <div class="card" style="border-radius: 8px;box-shadow: 0 2px 2px 0 rgba(0,0,0,0.2),0 1px 1px 0 rgba(0,0,0,0.4);background-color: #e3e3e3;">
+            <div class="card-body">
+                <h4 class="card-title text-center">Product Quantity Type Details</h4>
+                <div class="table-responsive">
+                    <table class="table table-striped">
+                        <thead>
+                            <tr>
+                                <th>
+                                    Serial
+                                </th>
+                                <th>
+                                    Product Quantity Type Name
+                                </th>
+                                <th>
+                                    Action
+                                </th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var item in Model)
+                            {
+                                <tr>
+                                    <td>
+                                        @item.Serial
+                                    </td>
+                                    <td>
+                                        @item.QuantityType
+                                    </td>
+                                    <td>
+                                        <a class="btn btn-danger" asp-area="Admin" asp-controller="Home" asp-action="DeleteProductQualntityType" asp-route-id="@item.QuantityId">Delete</a>
+                                        <a class="btn btn-info text-light" asp-area="Admin" asp-controller="Home" asp-action="UpdateProductQuantitytype" asp-route-id="@item.QuantityId">Edit</a>
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+

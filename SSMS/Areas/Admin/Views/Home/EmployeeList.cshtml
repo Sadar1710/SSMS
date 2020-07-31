@@ -1,0 +1,30 @@
+﻿@model List<SSMS.Areas.Admin.ViewModels.EmployeeVM>
+
+@{
+    ViewData["Title"] = "EmployeeList";
+}
+
+    <div class="row d-flex justify-content-center p-1">
+        @foreach (var item in Model)
+        {
+            var photo = "~/images/" + (item.ExistingPhoto ?? "avatar-1.png");
+            <div class="col-12 m-2 p1 col-sm-6 col-md-4 col-lg-3 col-xl-3" style="background-color:aquamarine;min-width: 18rem;">
+                <div class="card-header">
+                    <h5>@item.EmployeeName</h5>
+                </div>
+                <img class="card-img" src="@photo" asp-append-version="true" style="height:150px;">               
+                <div class="footer-left p-1">
+                    <h6>Id : @item.EmployeeId</h6>
+                    <h6>Designation : @item.DesignationName</h6>
+                    <h6>Email : @item.Email</h6>
+                    <h6>Cell : @item.Cell</h6>
+                    <h6>Join Date : @item.JoinDate.ToString("dd-MM-yyyy")</h6>
+                    <a asp-area="Admin" asp-controller="Home" asp-action="UpdateEmployee" 
+                       asp-route-id="@item.EmployeeId" class="btn btn-primary m-1">Edit</a>
+                    <a asp-area="Admin" asp-controller="Home" asp-action="DeleteEmployee" 
+                       asp-route-id="@item.EmployeeId" class="btn btn-danger m-1">Delete</a>
+                </div>
+            </div>
+        }
+    </div>
+       

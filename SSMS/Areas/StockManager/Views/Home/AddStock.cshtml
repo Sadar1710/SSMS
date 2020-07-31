@@ -1,0 +1,86 @@
+﻿@model SSMS.Areas.StockManager.ViewModels.StockVM
+@{
+    ViewData["Title"] = "AddStock";
+}
+
+
+<div class="row mt-3">
+    <div class="col-12 col-sm-12 col-md-10 offset-md-1 col-lg-8 offset-lg-2 col-xl-8 grid-margin stretch-card">
+        <div class="card" style="border-radius: 8px;box-shadow: 0 1px 1px 0 rgba(0,0,0,0.2),0 1px 1px 0 rgba(0,0,0,0.4);background-color: #e3e3e3;">
+            <div class="card-body">
+                <h4 class="card-title">Add Stock</h4>
+                <form class="forms-sample" asp-area="StockManager" asp-controller="Home" asp-action="AddStock" method="post">
+                    @if (ViewBag.Success != null)
+                    {
+                        <div class="alert alert-success" role="alert">
+                            @ViewBag.Success
+                        </div>
+                    }
+                    <div class="form-group">
+                        <label>Select Product Catagory</label>
+                        <select asp-items="@ViewBag.ProductCatagory" id="a" class="form-control" asp-for="ProductCatagoryId">
+                            <option disabled hidden selected>Please Select</option>
+                        </select>
+                        <span asp-validation-for="ProductCatagoryId" class="text-danger"></span>
+                        <div id="text" class="text-danger"></div>
+                    </div>
+                    <div class="form-group">
+                        <label>Select Product</label>
+                        <select disabled="disabled" id="b" class="form-control" asp-for="ProductId">
+                            <option disabled hidden selected>Please Select Catagory First</option>
+                        </select>
+                        <span asp-validation-for="ProductId" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label>Quantity</label>
+                        <input class="form-control" asp-for="Quantity" placeholder="Enter Quantity..." />
+                        <span asp-validation-for="Quantity" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label>Puchased Price</label>
+                        <input class="form-control" asp-for="PurchasedPrice" placeholder="Enter Price..." />
+                        <span asp-validation-for="PurchasedPrice" class="text-danger"></span>
+                    </div>
+                    <button class="btn btn-primary float-right">Add</button>
+                </form>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts{
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+           
+            $('#a').on('change', function (e) {
+               
+                var CId = $('option:selected', this);
+                var CatagoryId = CId.val();
+                console.log(CatagoryId);   
+
+                 if (CatagoryId != null) {
+                     $('#b').removeAttr("disabled");
+                     $('#b').empty();
+                   // $('#b').append($('<option disabled hidden selected></option>').val('').text('Please select product'));
+
+                    $.ajax('/StockManager/Home/GetProduct', {
+                        type: 'GET',  // http method
+                        data: { catagoryId: CatagoryId },  // data to submit
+                        dataType: 'json',            
+                        success: function (data) {
+                            $('#b').append($('<option disabled hidden selected></option>').val('').text('Please select product'));
+                            $.each(data, function (i, item) {
+                                $('#b').append($('<option value="' + item.value + '">' + item.text + '</option>'));
+                            });
+                        },
+
+                    });
+                }
+            });    
+             
+        });
+
+    </script>
+}

@@ -1,0 +1,54 @@
+﻿@model List<SSMS.Areas.Admin.ViewModels.DesignationVM>
+
+@{
+    ViewData["Title"] = "DesignationList";
+}
+
+<div class="row mt-3">
+    <div class="col-12 col-sm-12 col-md-10 offset-md-1 col-lg-8 offset-lg-2 col-xl-8 grid-margin stretch-card">
+        <div class="card" style="border-radius: 8px;box-shadow: 0 1px 1px 0 rgba(0,0,0,0.2),0 1px 1px 0 rgba(0,0,0,0.4);background-color: #e3e3e3;">
+            <div class="card-body">
+                <h4 class="card-title text-center">Designation List</h4>
+                <div class="table-responsive">
+                    <table class="table table-striped">
+                        <thead>
+                            <tr>
+                                <th>
+                                    Serial
+                                </th>
+                                <th>
+                                    Designation
+                                </th>
+                                <th>
+                                    Action
+                                </th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var item in Model)
+                            {
+                                <tr>
+                                    <td>
+                                        @item.Serial
+                                    </td>
+                                    <td>
+                                        @item.DesignationName
+                                    </td>
+                                    <td>
+                                        <a class="btn btn-danger" asp-area="Admin" asp-controller="Home" 
+                                           asp-action="DeleteDesignation" 
+                                           asp-route-id="@item.DesignationId">Delete</a>
+                                        <a class="btn text-light" asp-area="Admin" 
+                                           asp-controller="Home" asp-action="UpdateDesignation" 
+                                           asp-route-id="@item.DesignationId" style="background-image:linear-gradient(#0f0c29,#302b63,#24243e)">Edit</a>
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+

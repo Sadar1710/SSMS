@@ -1,0 +1,456 @@
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\SSMS.exe
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\SSMS.deps.json
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\SSMS.runtimeconfig.json
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\SSMS.runtimeconfig.dev.json
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\SSMS.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\SSMS.pdb
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\SSMS.Views.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\SSMS.Views.pdb
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\hp\source\repos\SSMS\SSMS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hp\source\repos\SSMS\SSMS\obj\Debug\netcoreapp3.1\staticwebassets\SSMS.StaticWebAssets.Manifest.cache
+C:\Users\hp\source\repos\SSMS\SSMS\obj\Debug\netcoreapp3.1\staticwebassets\SSMS.StaticWebAssets.xml
+C:\Users\hp\source\repos\SSMS\SSMS\obj\Debug\netcoreapp3.1\SSMS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\source\repos\SSMS\SSMS\obj\Debug\netcoreapp3.1\SSMS.RazorAssemblyInfo.cache
+C:\Users\hp\source\repos\SSMS\SSMS\obj\Debug\netcoreapp3.1\SSMS.RazorAssemblyInfo.cs
+C:\Users\hp\source\repos\SSMS\SSMS\obj\Debug\netcoreapp3.1\SSMS.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\SSMS\SSMS\obj\Debug\netcoreapp3.1\SSMS.AssemblyInfo.cs
+C:\Users\hp\source\repos\SSMS\SSMS\obj\Debug\netcoreapp3.1\SSMS.TagHelpers.input.cache
+C:\Users\hp\source\repos\SSMS\SSMS\obj\Debug\netcoreapp3.1\SSMS.TagHelpers.output.cache
+C:\Users\hp\source\repos\SSMS\SSMS\obj\Debug\netcoreapp3.1\SSMS.RazorCoreGenerate.cache
+C:\Users\hp\source\repos\SSMS\SSMS\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\A.cshtml.g.cs
+C:\Users\hp\source\repos\SSMS\SSMS\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\AddProduct.cshtml.g.cs
+C:\Users\hp\source\repos\SSMS\SSMS\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\AddQuantityType.cshtml.g.cs
+C:\Users\hp\source\repos\SSMS\SSMS\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\ProductCatagoryDetails.cshtml.g.cs
+C:\Users\hp\source\repos\SSMS\SSMS\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\QuantityTypeDetails.cshtml.g.cs
+C:\Users\hp\source\repos\SSMS\SSMS\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\SetProductCatagory.cshtml.g.cs
+C:\Users\hp\source\repos\SSMS\SSMS\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\UpdateProductCatagory.cshtml.g.cs
+C:\Users\hp\source\repos\SSMS\SSMS\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\UpdateProductQuantityType.cshtml.g.cs
+C:\Users\hp\source\repos\SSMS\SSMS\obj\Debug\netcoreapp3.1\Razor\Areas\_ViewImports.cshtml.g.cs
+C:\Users\hp\source\repos\SSMS\SSMS\obj\Debug\netcoreapp3.1\Razor\Areas\_ViewStart.cshtml.g.cs
+C:\Users\hp\source\repos\SSMS\SSMS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\hp\source\repos\SSMS\SSMS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\hp\source\repos\SSMS\SSMS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\hp\source\repos\SSMS\SSMS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\hp\source\repos\SSMS\SSMS\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\hp\source\repos\SSMS\SSMS\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\hp\source\repos\SSMS\SSMS\obj\Debug\netcoreapp3.1\SSMS.RazorTargetAssemblyInfo.cache
+C:\Users\hp\source\repos\SSMS\SSMS\obj\Debug\netcoreapp3.1\SSMS.RazorTargetAssemblyInfo.cs
+C:\Users\hp\source\repos\SSMS\SSMS\obj\Debug\netcoreapp3.1\SSMS.Views.pdb
+C:\Users\hp\source\repos\SSMS\SSMS\obj\Debug\netcoreapp3.1\SSMS.csproj.CopyComplete
+C:\Users\hp\source\repos\SSMS\SSMS\obj\Debug\netcoreapp3.1\SSMS.dll
+C:\Users\hp\source\repos\SSMS\SSMS\obj\Debug\netcoreapp3.1\SSMS.pdb
+C:\Users\hp\source\repos\SSMS\SSMS\obj\Debug\netcoreapp3.1\SSMS.csprojAssemblyReference.cache
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\appsettings.json
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\SSMS.exe
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\SSMS.deps.json
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\SSMS.runtimeconfig.json
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\SSMS.runtimeconfig.dev.json
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\SSMS.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\SSMS.pdb
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\SSMS.Views.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\SSMS.Views.pdb
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\Bootstrap website\SSMS\SSMS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\Bootstrap website\SSMS\SSMS\obj\Debug\netcoreapp3.1\SSMS.csprojAssemblyReference.cache
+G:\Bootstrap website\SSMS\SSMS\obj\Debug\netcoreapp3.1\staticwebassets\SSMS.StaticWebAssets.Manifest.cache
+G:\Bootstrap website\SSMS\SSMS\obj\Debug\netcoreapp3.1\staticwebassets\SSMS.StaticWebAssets.xml
+G:\Bootstrap website\SSMS\SSMS\obj\Debug\netcoreapp3.1\SSMS.MvcApplicationPartsAssemblyInfo.cache
+G:\Bootstrap website\SSMS\SSMS\obj\Debug\netcoreapp3.1\SSMS.RazorAssemblyInfo.cache
+G:\Bootstrap website\SSMS\SSMS\obj\Debug\netcoreapp3.1\SSMS.RazorAssemblyInfo.cs
+G:\Bootstrap website\SSMS\SSMS\obj\Debug\netcoreapp3.1\SSMS.AssemblyInfoInputs.cache
+G:\Bootstrap website\SSMS\SSMS\obj\Debug\netcoreapp3.1\SSMS.AssemblyInfo.cs
+G:\Bootstrap website\SSMS\SSMS\obj\Debug\netcoreapp3.1\SSMS.TagHelpers.input.cache
+G:\Bootstrap website\SSMS\SSMS\obj\Debug\netcoreapp3.1\SSMS.TagHelpers.output.cache
+G:\Bootstrap website\SSMS\SSMS\obj\Debug\netcoreapp3.1\SSMS.RazorCoreGenerate.cache
+G:\Bootstrap website\SSMS\SSMS\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\A.cshtml.g.cs
+G:\Bootstrap website\SSMS\SSMS\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\AddProduct.cshtml.g.cs
+G:\Bootstrap website\SSMS\SSMS\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\AddQuantityType.cshtml.g.cs
+G:\Bootstrap website\SSMS\SSMS\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\ProductCatagoryDetails.cshtml.g.cs
+G:\Bootstrap website\SSMS\SSMS\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\QuantityTypeDetails.cshtml.g.cs
+G:\Bootstrap website\SSMS\SSMS\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\SetProductCatagory.cshtml.g.cs
+G:\Bootstrap website\SSMS\SSMS\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\UpdateProductCatagory.cshtml.g.cs
+G:\Bootstrap website\SSMS\SSMS\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\UpdateProductQuantityType.cshtml.g.cs
+G:\Bootstrap website\SSMS\SSMS\obj\Debug\netcoreapp3.1\Razor\Areas\_ViewImports.cshtml.g.cs
+G:\Bootstrap website\SSMS\SSMS\obj\Debug\netcoreapp3.1\Razor\Areas\_ViewStart.cshtml.g.cs
+G:\Bootstrap website\SSMS\SSMS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+G:\Bootstrap website\SSMS\SSMS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+G:\Bootstrap website\SSMS\SSMS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+G:\Bootstrap website\SSMS\SSMS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+G:\Bootstrap website\SSMS\SSMS\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+G:\Bootstrap website\SSMS\SSMS\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+G:\Bootstrap website\SSMS\SSMS\obj\Debug\netcoreapp3.1\SSMS.RazorTargetAssemblyInfo.cache
+G:\Bootstrap website\SSMS\SSMS\obj\Debug\netcoreapp3.1\SSMS.RazorTargetAssemblyInfo.cs
+G:\Bootstrap website\SSMS\SSMS\obj\Debug\netcoreapp3.1\SSMS.Views.pdb
+G:\Bootstrap website\SSMS\SSMS\obj\Debug\netcoreapp3.1\SSMS.csproj.CopyComplete
+G:\Bootstrap website\SSMS\SSMS\obj\Debug\netcoreapp3.1\SSMS.dll
+G:\Bootstrap website\SSMS\SSMS\obj\Debug\netcoreapp3.1\SSMS.pdb
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\appsettings.json
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\SSMS.exe
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\SSMS.deps.json
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\SSMS.runtimeconfig.json
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\SSMS.runtimeconfig.dev.json
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\SSMS.dll
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\SSMS.pdb
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\SSMS.Views.dll
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\SSMS.Views.pdb
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IUBAT\Project\SSMS\SSMS\obj\Debug\netcoreapp3.1\SSMS.csprojAssemblyReference.cache
+F:\IUBAT\Project\SSMS\SSMS\obj\Debug\netcoreapp3.1\staticwebassets\SSMS.StaticWebAssets.Manifest.cache
+F:\IUBAT\Project\SSMS\SSMS\obj\Debug\netcoreapp3.1\staticwebassets\SSMS.StaticWebAssets.xml
+F:\IUBAT\Project\SSMS\SSMS\obj\Debug\netcoreapp3.1\SSMS.RazorAssemblyInfo.cache
+F:\IUBAT\Project\SSMS\SSMS\obj\Debug\netcoreapp3.1\SSMS.RazorAssemblyInfo.cs
+F:\IUBAT\Project\SSMS\SSMS\obj\Debug\netcoreapp3.1\SSMS.AssemblyInfoInputs.cache
+F:\IUBAT\Project\SSMS\SSMS\obj\Debug\netcoreapp3.1\SSMS.AssemblyInfo.cs
+F:\IUBAT\Project\SSMS\SSMS\obj\Debug\netcoreapp3.1\SSMS.TagHelpers.input.cache
+F:\IUBAT\Project\SSMS\SSMS\obj\Debug\netcoreapp3.1\SSMS.TagHelpers.output.cache
+F:\IUBAT\Project\SSMS\SSMS\obj\Debug\netcoreapp3.1\SSMS.RazorCoreGenerate.cache
+F:\IUBAT\Project\SSMS\SSMS\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\AddDesignation.cshtml.g.cs
+F:\IUBAT\Project\SSMS\SSMS\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\AddEmployee.cshtml.g.cs
+F:\IUBAT\Project\SSMS\SSMS\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\AddProduct.cshtml.g.cs
+F:\IUBAT\Project\SSMS\SSMS\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\AddQuantityType.cshtml.g.cs
+F:\IUBAT\Project\SSMS\SSMS\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\DesignationList.cshtml.g.cs
+F:\IUBAT\Project\SSMS\SSMS\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\EmployeeList.cshtml.g.cs
+F:\IUBAT\Project\SSMS\SSMS\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\ProductCatagoryDetails.cshtml.g.cs
+F:\IUBAT\Project\SSMS\SSMS\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\ProductList.cshtml.g.cs
+F:\IUBAT\Project\SSMS\SSMS\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\QuantityTypeDetails.cshtml.g.cs
+F:\IUBAT\Project\SSMS\SSMS\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\SetProductCatagory.cshtml.g.cs
+F:\IUBAT\Project\SSMS\SSMS\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\UpdateDesignation.cshtml.g.cs
+F:\IUBAT\Project\SSMS\SSMS\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\UpdateProduct.cshtml.g.cs
+F:\IUBAT\Project\SSMS\SSMS\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\UpdateProductCatagory.cshtml.g.cs
+F:\IUBAT\Project\SSMS\SSMS\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\UpdateProductQuantityType.cshtml.g.cs
+F:\IUBAT\Project\SSMS\SSMS\obj\Debug\netcoreapp3.1\Razor\Areas\_ViewImports.cshtml.g.cs
+F:\IUBAT\Project\SSMS\SSMS\obj\Debug\netcoreapp3.1\Razor\Areas\_ViewStart.cshtml.g.cs
+F:\IUBAT\Project\SSMS\SSMS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\IUBAT\Project\SSMS\SSMS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\IUBAT\Project\SSMS\SSMS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\IUBAT\Project\SSMS\SSMS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\IUBAT\Project\SSMS\SSMS\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\IUBAT\Project\SSMS\SSMS\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\IUBAT\Project\SSMS\SSMS\obj\Debug\netcoreapp3.1\SSMS.RazorTargetAssemblyInfo.cache
+F:\IUBAT\Project\SSMS\SSMS\obj\Debug\netcoreapp3.1\SSMS.RazorTargetAssemblyInfo.cs
+F:\IUBAT\Project\SSMS\SSMS\obj\Debug\netcoreapp3.1\SSMS.Views.pdb
+F:\IUBAT\Project\SSMS\SSMS\obj\Debug\netcoreapp3.1\SSMS.csproj.CopyComplete
+F:\IUBAT\Project\SSMS\SSMS\obj\Debug\netcoreapp3.1\SSMS.dll
+F:\IUBAT\Project\SSMS\SSMS\obj\Debug\netcoreapp3.1\SSMS.pdb
+F:\IUBAT\Project\SSMS\SSMS\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\UpdateEmployee.cshtml.g.cs
+F:\IUBAT\Project\SSMS\SSMS\obj\Debug\netcoreapp3.1\Razor\Areas\StockManager\Views\Home\AddStock.cshtml.g.cs
+F:\IUBAT\Project\SSMS\SSMS\obj\Debug\netcoreapp3.1\Razor\Areas\StockManager\Views\Home\StockDetails.cshtml.g.cs
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\Remotion.Linq.dll
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\System.Interactive.Async.dll
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Cryptography.Pkcs.dll
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\X.PagedList.dll
+F:\IUBAT\Project\SSMS\SSMS\bin\Debug\netcoreapp3.1\X.PagedList.Mvc.Core.dll
+F:\IUBAT\Project\SSMS\SSMS\obj\Debug\netcoreapp3.1\SSMS.MvcApplicationPartsAssemblyInfo.cs
+F:\IUBAT\Project\SSMS\SSMS\obj\Debug\netcoreapp3.1\SSMS.MvcApplicationPartsAssemblyInfo.cache
+F:\IUBAT\Project\SSMS\SSMS\obj\Debug\netcoreapp3.1\Razor\Areas\StockManager\Views\Home\AvailableStock.cshtml.g.cs

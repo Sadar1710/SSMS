@@ -1,0 +1,110 @@
+﻿
+@{
+    ViewData["Title"] = "AddEmployee";
+}
+
+@model SSMS.Areas.Admin.ViewModels.EmployeeVM
+<div class="row mt-3">
+    <div class="col-12 col-sm-12 col-md-10 offset-md-1 col-lg-8 offset-lg-2 col-xl-8 grid-margin stretch-card">
+        <div class="card" style="border-radius: 8px;box-shadow: 0 1px 1px 0 rgba(0,0,0,0.2),0 1px 1px 0 rgba(0,0,0,0.4);background-color: #e3e3e3;">
+            <div class="card-body">
+                <h4 class="card-title">Add Employee</h4>
+                <form enctype="multipart/form-data" class="forms-sample" asp-area="Admin" asp-controller="Home" asp-action="AddEmployee" method="post">
+                    @if (ViewBag.Validation != null)
+                    {
+                        <div class="alert alert-danger" role="alert">
+                            @ViewBag.Validation
+                        </div>
+                    }
+                    @if (ViewBag.Success != null)
+                    {
+                        <div class="alert alert-success" role="alert">
+                            @ViewBag.Success
+                        </div>
+                    }
+                    @*<div class="form-group">
+                            <label>Enter Employee Name</label>
+                            <input class="form-control" placeholder="Enter Product Name..." asp-for="EmployeeName">
+                            <span asp-validation-for="EmployeeName" class="text-danger"></span>
+                        </div>*@
+                    <div class="form-group">
+                        <label>Enter Name</label>
+                        <input class="form-control" placeholder="Enter Employee Name..." asp-for="EmployeeName">
+                        <span asp-validation-for="EmployeeName" class="text-danger"></span>
+                    </div>
+
+                    <div class="row">
+                        <div class="col-12 col-sm-6 col-md-6 col-lg-6 col-xl-6">
+                            <div class="form-group">
+                                <label>Select Designation</label>
+                                <select asp-items="@ViewBag.Designation" class="form-control" asp-for="DesignationId">
+                                    <option disabled hidden selected>Please Select Designation...</option>
+                                </select>
+                                <span asp-validation-for="DesignationId" class="text-danger"></span>
+                            </div>
+                        </div>
+                        <div class="col-12 col-sm-6 col-md-6 col-lg-6 col-xl-6">
+                            <div class="form-group">
+                                <label>Enter Email</label>
+                                <input class="form-control" placeholder="Enter Email..." asp-for="Email" />
+                                <span asp-validation-for="Email" class="text-danger"></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-12 col-sm-6 col-md-6 col-lg-6 col-xl-6">
+                            <div class="form-group">
+                                <label>Phone Number</label>
+                                <input class="form-control" placeholder="Enter Phone Number..." asp-for="Cell" />
+                                <span asp-validation-for="Cell" class="text-danger"></span>
+                            </div>
+                        </div>
+                        <div class="col-12 col-sm-6 col-md-6 col-lg-6 col-xl-6">
+                            <div class="form-group">
+                                <label>Join Date</label>
+                                <input class="form-control" type="date" placeholder="Enter Phone Number..." asp-for="JoinDate" />
+                                <span asp-validation-for="JoinDate" class="text-danger"></span>
+                            </div>
+                        </div>
+                    </div>
+                    <img src="~/Assets/img/avatar-1.png" id="output" style="height:150px;width:150px;" />
+                    <div class="form-group">
+                        <label>Photo</label>
+                        <div class="custom-file">
+                            <input asp-for="PhotoPath" id="input" class="form-control custom-file-input" style="cursor:pointer;">
+                            <label class="custom-file-label" style="overflow:hidden;">Choose File...</label>
+                        </div>
+                    </div>
+                    <button class="btn btn-primary float-right">Add</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        $(document).ready(function () {
+
+            $('.custom-file-input').on("change", function () {
+                var fileName = $(this).val().split("\\").pop();
+                $(this).next('.custom-file-label').html(fileName);
+            });
+
+            function readURL(input) {
+                if (input.files && input.files[0]) {
+                    var reader = new FileReader();
+                    reader.onload = function (e) {
+                        $('#output').attr('src', e.target.result);
+                    }
+                    reader.readAsDataURL(input.files[0]);
+                }
+            }
+            $("#input").change(function () {
+                readURL(this);
+            });
+
+        });
+    </script>
+}
+
